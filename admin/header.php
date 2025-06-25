@@ -96,7 +96,7 @@ require('scripts.php');
     <!-- Header -->
     <div class="header bg-dark text-light p-3 d-flex align-items-center justify-content-between" id="header">
         <button class="toggle-btn" onclick="toggleSidebar()">☰</button>
-        <h3 class="mb-0">Hi Admin!</h3>
+        <h3 class="mb-0">W    Hii Admin!</h3>
         <a href="logout.php" class="btn btn-light btn-sm">LOG OUT</a>
     </div>
 
